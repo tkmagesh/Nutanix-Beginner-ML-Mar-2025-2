@@ -45,3 +45,10 @@ jupyter notebook
     - Calculus
     - Probability & Statistics
 - An Introduction to Statistical Learning (ISL)
+
+## Libraries
+- numpy
+- panda
+- matplotlib
+- seaborn
+- scikit-learn / PyTorch
